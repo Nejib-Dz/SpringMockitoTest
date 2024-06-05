@@ -1,0 +1,27 @@
+
+4
+java:S5786""Remove this 'public' modifier.(ê½ìÉ
+9
+java:S57866"Remove this 'public' modifier.(îªÉóùÿÿÿÿ
+4
+java:S5786S"Remove this 'public' modifier.(½”ªÆ
+9
+java:S5786f"Remove this 'public' modifier.(°½æ»üÿÿÿÿ
+4
+java:S5786y"Remove this 'public' modifier.(§ÃŸ‹
+:
+java:S5786"Remove this 'public' modifier.(´¬™½øÿÿÿÿ
+:
+java:S5786¤"Remove this 'public' modifier.(·õüïúÿÿÿÿ
+5
+java:S5786¹"Remove this 'public' modifier.(°¿åÑ
+5
+java:S5786Î"Remove this 'public' modifier.(Ë¾ñ‹
+:
+java:S5786ã"Remove this 'public' modifier.(İ¥Í²ûÿÿÿÿ
+4
+java:S5786"Remove this 'public' modifier.(İää‹
+/
+java:S5838/"Use isPositive() instead.(ëÀê¢
+L
+java:S5838L"1Use assertThat(actual).hasSize(expected) instead.(ÄÏœ³ùÿÿÿÿ
